@@ -17,8 +17,8 @@ Download videos or audio from YouTube in 4k in just a few clicks!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/youtube-video-downloader.git
-   cd youtube-video-downloader
+   git clone https://github.com/ChadKevin/YoutubeVideoDownloader.git
+   cd YoutubeVideoDownloader
    ```
 
 2. **Install Python dependencies**
